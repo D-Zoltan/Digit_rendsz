@@ -1,1 +1,1 @@
-"# Digit lis_rendsz" 
+"# DigitÃ¡lis_rendsz" 
